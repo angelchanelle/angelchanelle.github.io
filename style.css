@@ -1,3 +1,4 @@
+
 body {
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1nt0fzg9LryJzo8qVUlxjGfy12AFGM5w_UUNHfkJkQ&s=10);
   font-family: sans-serif;
@@ -46,7 +47,7 @@ h1, h2, p, address{
 
 .menu {
   width: 80%;
-  background-color: burlywood;
+  background-color: lavender;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
@@ -62,16 +63,16 @@ img {
 
 hr {
   height: 2px;
-  background-color: brown;
-  border-color: brown;
+  background-color: purple;
+  border-color: purple;
 }
 
 .bottom-line {
   margin-top: 25px;
 }
 
-h1, h2 {
-  font-family: Impact, serif;
+h1, h2, h3, p, li {
+  font-family: Times New Roman, serif;
 }
 
 .item p {
@@ -79,6 +80,7 @@ h1, h2 {
   margin-top: 5px;
   margin-bottom: 5px;
   font-size: 18px;
+
 }
 
 .flavor, .dessert {
@@ -106,17 +108,17 @@ address {
 }
 
 a {
-  color: black;
+  color: purple;
 }
 
 a:visited {
-  color: black;
+  color: red;
 }
 
 a:hover {
-  color: brown;
+  color: blue;
 }
 
 a:active {
-  color: brown;
+  color: orange;
 }
