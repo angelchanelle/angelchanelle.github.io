@@ -3,7 +3,6 @@ body {
   font-family: sans-serif;
   padding: 20px;
 }
-
 h1 {
   font-size: 40px;
   margin-top: 0;
@@ -17,8 +16,16 @@ h2 {
 .established {
   font-style: italic;
 }
-
-h1, h2, p {
+.title {
+  font-style: italic;
+}
+.address {
+  font-style: italic;
+}
+.socials {
+  font-weight: bold;
+}
+h1, h2, p, address{
   text-align: center;
 }
 
