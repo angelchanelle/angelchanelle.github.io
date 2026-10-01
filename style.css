@@ -1,6 +1,7 @@
 body {
-background-color: lavender;
+  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
   font-family: sans-serif;
+  padding: 20px;
 }
 
 h1 {
@@ -23,7 +24,7 @@ h1, h2, p {
 
 .menu {
   width: 80%;
-  background-color: lavender;
+  background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
@@ -39,8 +40,8 @@ img {
 
 hr {
   height: 2px;
-  background-color: grey;
-  border-color: purple;
+  background-color: brown;
+  border-color: brown;
 }
 
 .bottom-line {
@@ -94,6 +95,9 @@ a:hover {
   color: brown;
 }
 
+a:active {
+  color: brown;
+}
 a:active {
   color: brown;
 }
