@@ -1,7 +1,7 @@
 
 body {
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1nt0fzg9LryJzo8qVUlxjGfy12AFGM5w_UUNHfkJkQ&s=10);
-  font-family: sans-serif;
+  font-family: times new roman;
   padding: 20px;
 }
 h1 {
@@ -45,15 +45,6 @@ h1, h2, p, address{
   text-align: center;
 }
 
-.menu {
-  width: 80%;
-  background-color: lavender;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 20px;
-  max-width: 500px;
-}
-
 img {
   display: block;
   margin-left: auto;
@@ -73,24 +64,6 @@ hr {
 
 h1, h2, h3, p, li {
   font-family: Times New Roman, serif;
-}
-
-.item p {
-  display: inline-block;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  font-size: 18px;
-
-}
-
-.flavor, .dessert {
-  text-align: left;
-  width: 75%;
-}
-
-.price {
-  text-align: right;
-  width: 25%;
 }
 
 /* FOOTER */
