@@ -48,7 +48,7 @@ hr {
 }
 
 h1, h2 {
-  font-family: Impact, serif;
+  font-family: Times New Roman, serif;
 }
 
 .item p {
@@ -83,15 +83,15 @@ address {
 }
 
 a {
-  color: black;
+  color: purple;
 }
 
 a:visited {
-  color: black;
+  color: red;
 }
 
 a:hover {
-  color: brown;
+  color: blue;
 }
 
 a:active {
