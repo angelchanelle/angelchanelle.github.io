@@ -7,23 +7,35 @@ h1 {
   font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
+    text-align: center;
+
 }
 
 h2 {
   font-size: 30px;
+    text-align: center;
+
 }
 
 .established {
   font-style: italic;
+    text-align: center;
+
 }
 .title {
   font-style: italic;
+    text-align: center;
+
 }
 .address {
   font-style: italic;
+    text-align: center;
+
 }
 .socials {
   font-weight: bold;
+    text-align: center;
+
 }
 h1, h2, p, address{
   text-align: center;
