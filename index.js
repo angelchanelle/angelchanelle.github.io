@@ -1,5 +1,5 @@
 console.log("Hi there!");
-console.log("I am excited to talk to you.");
+console.log("I am excited to talk to you about where I'd like to travel.");
 let bot;
 bot = "Angel Gray's Bot";
 
@@ -23,9 +23,9 @@ bot = "theMostExcellentBot";
 const newNicknameGreeting = "I love my nickname but I wish people would call me " + bot + ".";
 console.log(newNicknameGreeting);
 
-const favoriteSubject = "Computer Science";
+const placeIWantToTravelTo = "Thailand & Japan";
 
-const favoriteSubjectSentence = "My favorite subject is " + favoriteSubject + "." + " I am learning it now! ";
-console.log(favoriteSubjectSentence);
+const placeIWantToTravelToSentence = "Two places I'd like to travel to are " + placeIWantToTravelTo + ".";
+console.log(placeIWantToTravelToSentence);
 console.log("Well, it was nice to talk to you. Have a nice day!");
 
